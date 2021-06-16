@@ -1,1 +1,2 @@
 CLI VIRTUAL ASSISTANT
+print("Hello!")
